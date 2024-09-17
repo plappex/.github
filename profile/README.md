@@ -1,4 +1,4 @@
-## Hi there 👋
+## Pylon Pile ส่วนต่อขยาย 👋
 
 <!--
 
@@ -10,3 +10,14 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+พัฒนาโดย [`Croknowsoft`](https://croknowsoft.com)
+
+ประกอบด้วย 3 โมดูล
+1. NCR
+2. Helpdesk
+3. Announcement
+
+API ของส่วนนี้
+จะมีการใช้ร่วมกันกับ [`SmartClick`](https://www.smartclick.co.th)
+เป็นผู้รับจ้างทำในส่วนของ Web ที่มีระบบ Admin ด้วย
