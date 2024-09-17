@@ -21,3 +21,6 @@
 API ของส่วนนี้
 จะมีการใช้ร่วมกันกับ [`SmartClick`](https://www.smartclick.co.th)
 เป็นผู้รับจ้างทำในส่วนของ Web ที่มีระบบ Admin ด้วย
+
+### Invitation
+คุณสามารถตอบรับคำเชิญให้เข้าร่วมทีมได้ [`ที่นี่`](https://github.com/orgs/plappex/invitation)
